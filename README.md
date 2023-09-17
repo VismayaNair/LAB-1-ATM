@@ -9,8 +9,10 @@ to withdraw money,deposit.
 
 ### UML DIAGRAMS:
 
-Developed by : Vismaya.S
-Register number : 212221230125
+# Developed by : Vismaya.S
+# Register number : 212221230125
+
+
 Use Case Diagram:
 ![image](https://github.com/VismayaNair/LAB-1-ATM/assets/93427210/b7e5f910-3c95-44fa-bc1d-d357025bfcd3)
 
